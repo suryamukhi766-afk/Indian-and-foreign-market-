@@ -1,0 +1,7 @@
+{
+  "name": "TRADE WITH SONI - Professional Trading & Education Platform",
+  "description": "Premium paper trading and education platform featuring Indian and US stock markets, real-time simulated charts, Soni Academy, public journals, VIP signals, and admin suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
